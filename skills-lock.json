@@ -1,6 +1,42 @@
 {
   "version": 1,
   "skills": {
+    "compose-animations": {
+      "source": "chrisbanes/skills",
+      "sourceType": "github",
+      "skillPath": "skills/compose-animations/SKILL.md",
+      "computedHash": "a019d260e4883767d79fc3372bb3febcde78bfb0ec58854eb6ca560e01c10e32"
+    },
+    "compose-component-design": {
+      "source": "chrisbanes/skills",
+      "sourceType": "github",
+      "skillPath": "skills/compose-component-design/SKILL.md",
+      "computedHash": "dfb45a02e93d03e56de004e3c4c2c5c6201695fdecb6bb864adf60014a9d5b04"
+    },
+    "compose-focus-navigation": {
+      "source": "chrisbanes/skills",
+      "sourceType": "github",
+      "skillPath": "skills/compose-focus-navigation/SKILL.md",
+      "computedHash": "05147a310caa82814f329dc3acfb0b47dde27ab25ba8e53ca4db78a773b13c4d"
+    },
+    "compose-performance": {
+      "source": "chrisbanes/skills",
+      "sourceType": "github",
+      "skillPath": "skills/compose-performance/SKILL.md",
+      "computedHash": "6cb43d444f0617ab3039bc7b34c1f8c12e441a8be216eb953309e4db01313c3c"
+    },
+    "compose-state-and-effects": {
+      "source": "chrisbanes/skills",
+      "sourceType": "github",
+      "skillPath": "skills/compose-state-and-effects/SKILL.md",
+      "computedHash": "f4187e61f49a484ec9a0eefb0345b42b3fa7a360f56ee40e7b3f21ee8c499c63"
+    },
+    "compose-ui-testing-patterns": {
+      "source": "chrisbanes/skills",
+      "sourceType": "github",
+      "skillPath": "skills/compose-ui-testing-patterns/SKILL.md",
+      "computedHash": "eaeb1524dfa939ea561782909dab5df0575e984c6b1676197421d4f580e7d04f"
+    },
     "design-taste-frontend": {
       "source": "Leonxlnx/taste-skill",
       "sourceType": "github",
@@ -13,6 +49,24 @@
       "skillPath": "skills/soft-skill/SKILL.md",
       "computedHash": "7db385e4c5370e5a7fca9704a1361b056e4504ea6a03924bb86f33a4f00b5c73"
     },
+    "kotlin-api-design": {
+      "source": "chrisbanes/skills",
+      "sourceType": "github",
+      "skillPath": "skills/kotlin-api-design/SKILL.md",
+      "computedHash": "9fcb6865b2850e73d4cd0b4a1704ef70ebe8420bdf4918d77726741127368511"
+    },
+    "kotlin-concurrency-and-flow": {
+      "source": "chrisbanes/skills",
+      "sourceType": "github",
+      "skillPath": "skills/kotlin-concurrency-and-flow/SKILL.md",
+      "computedHash": "d1f46ad6a3a252cdc1a1577aff45ebff36adaab6c1ddd427c674ae8e995e9bda"
+    },
+    "kotlin-control-flow": {
+      "source": "chrisbanes/skills",
+      "sourceType": "github",
+      "skillPath": "skills/kotlin-control-flow/SKILL.md",
+      "computedHash": "a4a712ab56b83d077a9eb72edca80131403cb5b72e93ae6c313f23ab2b1d210f"
+    },
     "minimalist-ui": {
       "source": "Leonxlnx/taste-skill",
       "sourceType": "github",
@@ -24,6 +78,30 @@
       "sourceType": "github",
       "skillPath": "skills/redesign-skill/SKILL.md",
       "computedHash": "b405eee0e0e80fc243f731d9aa368bca307e356db7e6157d27101d369dac6726"
+    },
+    "run-github-project": {
+      "source": "chrisbanes/skills",
+      "sourceType": "github",
+      "skillPath": "skills/run-github-project/SKILL.md",
+      "computedHash": "eb6a74c5613de78e2c12bc4d9c3e04fdff71c330b2d4bd866d3ecad180b49649"
+    },
+    "shepherd": {
+      "source": "chrisbanes/skills",
+      "sourceType": "github",
+      "skillPath": "skills/shepherd/SKILL.md",
+      "computedHash": "5ec79ff92e7ce6d3a194b30e08106f479189233d5732b29fb5a089f3cfc44981"
+    },
+    "to-plan": {
+      "source": "chrisbanes/skills",
+      "sourceType": "github",
+      "skillPath": "skills/to-plan/SKILL.md",
+      "computedHash": "69e04e01a9c723bdbe0e7a04f764968a2c0035f5bba4f1b81c1caf369053ac6e"
+    },
+    "using-chrisbanes-skills": {
+      "source": "chrisbanes/skills",
+      "sourceType": "github",
+      "skillPath": "skills/using-chrisbanes-skills/SKILL.md",
+      "computedHash": "eea3a3c04f55ac24477845699b8fc21398d428fb721e7d995e872d10df2db135"
     }
   }
 }
