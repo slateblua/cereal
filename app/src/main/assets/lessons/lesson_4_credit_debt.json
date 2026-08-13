@@ -1,0 +1,92 @@
+{
+  "id": "lesson_4_credit_debt",
+  "unitId": "unit_2_wealth_growth",
+  "unitTitle": "Unit 2: Wealth Building",
+  "title": "Credit Scores & Debt Strategy",
+  "subtitle": "Learn how credit scores work and how to eliminate high-interest balances.",
+  "xpReward": 75,
+  "iconName": "credit_card",
+  "steps": [
+    {
+      "id": "l4_s1",
+      "type": "COMPANION_MESSAGE",
+      "sender": "Pip",
+      "mascotMood": "THINKING",
+      "content": "A high credit score can save you tens of thousands of dollars on mortgages, auto loans, and insurance rates throughout your life.",
+      "tip": "Credit scores range from 300 to 850, with 740+ unlocking the best loan rates."
+    },
+    {
+      "id": "l4_s2",
+      "type": "EXPLANATION_CARD",
+      "title": "The 5 Pillars of Credit Scoring",
+      "content": "35% Payment History: Did you pay on time? (Most critical factor)\n30% Credit Utilization: Using less than 30% of your limit\n15% Length of Credit History: How long accounts have been open\n10% Credit Mix: Revolving cards vs installment loans\n10% New Credit Inquiries: Hard inquiries from new applications",
+      "highlight": "Always pay on time and keep credit utilization below 30%."
+    },
+    {
+      "id": "l4_s3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which single factor has the largest impact on your credit score calculation?",
+      "hint": "Lenders care most about whether you have a consistent track record of paying accounts on time (making up 35% of the score).",
+      "options": [
+        {
+          "id": "l4_s3_opt1",
+          "text": "Payment history: whether you consistently pay accounts on time",
+          "isCorrect": true,
+          "explanation": "Payment history makes up 35% of your total credit score."
+        },
+        {
+          "id": "l4_s3_opt2",
+          "text": "The total number of credit cards in your wallet",
+          "isCorrect": false,
+          "explanation": "Card count is minor compared to timely payments."
+        },
+        {
+          "id": "l4_s3_opt3",
+          "text": "Your current monthly salary level",
+          "isCorrect": false,
+          "explanation": "Income is not tracked on credit reports or scoring models."
+        }
+      ]
+    },
+    {
+      "id": "l4_s4",
+      "type": "EXPLANATION_CARD",
+      "title": "Debt Avalanche vs Snowball",
+      "content": "Debt Avalanche: Pay minimums on all debts, then put all extra cash toward the highest interest rate debt. Mathematically saves the most money.\n\nDebt Snowball: Pay smallest balances first for quick psychological wins.",
+      "highlight": "Avalanche saves the most money; Snowball builds quick psychological wins."
+    },
+    {
+      "id": "l4_s5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "How does the Debt Avalanche strategy prioritize repayments to save the most money?",
+      "hint": "The avalanche strategy targets the debt charging you the highest interest rate first to minimize total interest costs.",
+      "options": [
+        {
+          "id": "l4_s5_opt1",
+          "text": "Paying off debts with the highest interest rates first",
+          "isCorrect": true,
+          "explanation": "Attacking highest interest debt first minimizes total interest paid across the board."
+        },
+        {
+          "id": "l4_s5_opt2",
+          "text": "Paying off the smallest dollar balance first",
+          "isCorrect": false,
+          "explanation": "Targeting smallest balances first is the Debt Snowball method."
+        },
+        {
+          "id": "l4_s5_opt3",
+          "text": "Paying only minimum payments on all cards forever",
+          "isCorrect": false,
+          "explanation": "Paying minimums prolongs debt and maximizes interest expense."
+        }
+      ]
+    },
+    {
+      "id": "l4_s6",
+      "type": "SUMMARY",
+      "title": "Debt Strategy Mastered",
+      "content": "You now understand how to safeguard your credit score and crush high-interest debt strategically.",
+      "mascotMood": "PROUD"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "lesson_1_money_basics",
+  "unitId": "unit_1_foundations",
+  "unitTitle": "Unit 1: Financial Foundations",
+  "title": "Money Basics & History",
+  "subtitle": "Discover the true functions of money and how currency evolved.",
+  "xpReward": 50,
+  "iconName": "account_balance",
+  "steps": [
+    {
+      "id": "l1_s1",
+      "type": "COMPANION_MESSAGE",
+      "sender": "Pip",
+      "mascotMood": "HAPPY",
+      "content": "Welcome to your financial journey! Have you ever wondered why green paper or numbers on a phone screen can buy you a sandwich?",
+      "tip": "Money only works because everyone agrees it holds value."
+    },
+    {
+      "id": "l1_s2",
+      "type": "EXPLANATION_CARD",
+      "title": "The Evolution of Money",
+      "content": "Thousands of years ago, people traded physical goods like wheat and cows (barter). But carrying five cows to buy a tent was exhausting!\n\nMoney was born as a universally accepted medium of exchange, a unit of account, and a store of value.",
+      "highlight": "Money solves the problem of needing a double coincidence of wants."
+    },
+    {
+      "id": "l1_s3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What primary problem led humanity to transition from bartering goods to using money?",
+      "hint": "Think about what happens if you have wheat to trade, but the seller only wants cows. Money acts as a universal bridge for exchange.",
+      "options": [
+        {
+          "id": "l1_s3_opt1",
+          "text": "The difficulty of matching mutual needs and carrying physical goods for trade",
+          "isCorrect": true,
+          "explanation": "Barter requires both people to want what the other has. Money acts as a universal bridge."
+        },
+        {
+          "id": "l1_s3_opt2",
+          "text": "Governments outlawed trading physical goods",
+          "isCorrect": false,
+          "explanation": "Trade was never outlawed; people naturally evolved money for convenience."
+        },
+        {
+          "id": "l1_s3_opt3",
+          "text": "Gold was too abundant and lost its value",
+          "isCorrect": false,
+          "explanation": "Gold was chosen because it was scarce, durable, and easily recognizable."
+        }
+      ]
+    },
+    {
+      "id": "l1_s4",
+      "type": "COMPANION_MESSAGE",
+      "sender": "Pip",
+      "mascotMood": "THINKING",
+      "content": "To be good money, an asset must also preserve your purchasing power over time so you can spend it next month or next year.",
+      "tip": "Inflation slowly erodes how much a dollar can buy."
+    },
+    {
+      "id": "l1_s5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which core function of money allows you to save purchasing power today and spend it years later?",
+      "hint": "Consider which function lets you reliably store and preserve the purchasing power of your work for future use.",
+      "options": [
+        {
+          "id": "l1_s5_opt1",
+          "text": "Store of value",
+          "isCorrect": true,
+          "explanation": "Store of value ensures that money earned today can reliably buy goods in the future."
+        },
+        {
+          "id": "l1_s5_opt2",
+          "text": "Medium of exchange",
+          "isCorrect": false,
+          "explanation": "Medium of exchange refers to using money for immediate transactions."
+        },
+        {
+          "id": "l1_s5_opt3",
+          "text": "Unit of account",
+          "isCorrect": false,
+          "explanation": "Unit of account is the pricing measure for comparison."
+        }
+      ]
+    },
+    {
+      "id": "l1_s6",
+      "type": "SUMMARY",
+      "title": "Money Basics Mastered",
+      "content": "You learned the three superpowers of money: medium of exchange, store of value, and unit of account.",
+      "mascotMood": "CELEBRATING"
+    }
+  ]
+}

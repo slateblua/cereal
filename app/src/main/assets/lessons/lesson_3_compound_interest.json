@@ -1,0 +1,92 @@
+{
+  "id": "lesson_3_compound_interest",
+  "unitId": "unit_2_wealth_growth",
+  "unitTitle": "Unit 2: Wealth Building",
+  "title": "The Power of Compound Interest",
+  "subtitle": "Understand how time and reinvested returns turn small habits into wealth.",
+  "xpReward": 70,
+  "iconName": "trending_up",
+  "steps": [
+    {
+      "id": "l3_s1",
+      "type": "COMPANION_MESSAGE",
+      "sender": "Pip",
+      "mascotMood": "HAPPY",
+      "content": "Albert Einstein reportedly called compound interest the eighth wonder of the world. Let's see why it is so powerful!",
+      "tip": "Starting five years earlier can double your eventual retirement fund."
+    },
+    {
+      "id": "l3_s2",
+      "type": "EXPLANATION_CARD",
+      "title": "Simple vs Compound Interest",
+      "content": "Simple Interest: You earn interest only on your initial deposit (principal).\n\nCompound Interest: You earn interest on your principal plus all previously accumulated interest!\n\nOver 20–30 years, compound interest creates exponential growth.",
+      "highlight": "Compound interest makes your money work for you 24/7."
+    },
+    {
+      "id": "l3_s3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the key mechanism that makes compound interest grow exponentially over time?",
+      "hint": "Unlike simple interest, compound interest reinvests previous earnings so your investment base grows on top of itself.",
+      "options": [
+        {
+          "id": "l3_s3_opt1",
+          "text": "Earning returns on previous returns in addition to the principal deposit",
+          "isCorrect": true,
+          "explanation": "Because each period's earnings are reinvested, the base on which future gains are calculated keeps expanding."
+        },
+        {
+          "id": "l3_s3_opt2",
+          "text": "Doubling your monthly contributions every single month",
+          "isCorrect": false,
+          "explanation": "Exponential growth occurs through reinvestment, even with flat monthly contributions."
+        },
+        {
+          "id": "l3_s3_opt3",
+          "text": "Taking high-risk lottery bets with your capital",
+          "isCorrect": false,
+          "explanation": "Gambling destroys wealth; disciplined compounding creates steady exponential gains."
+        }
+      ]
+    },
+    {
+      "id": "l3_s4",
+      "type": "EXPLANATION_CARD",
+      "title": "The Rule of 72",
+      "content": "Want to know how fast your money will double? Divide 72 by your expected annual rate of return.\n\nExample: At a 7% return, 72 / 7 is approximately 10.3 years to double your money without adding a single extra penny!",
+      "highlight": "Rule of 72: Years to double = 72 / Annual Return Rate."
+    },
+    {
+      "id": "l3_s5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "According to the Rule of 72, if your investments earn an average return of 8% annually, about how many years will it take to double?",
+      "hint": "Use the Rule of 72 shortcut: divide 72 by the annual return rate (8).",
+      "options": [
+        {
+          "id": "l3_s5_opt1",
+          "text": "9 years (72 divided by 8)",
+          "isCorrect": true,
+          "explanation": "72 divided by 8 equals 9 years to double your investment."
+        },
+        {
+          "id": "l3_s5_opt2",
+          "text": "18 years",
+          "isCorrect": false,
+          "explanation": "At 8%, 18 years would quadruple your balance instead of doubling."
+        },
+        {
+          "id": "l3_s5_opt3",
+          "text": "5 years",
+          "isCorrect": false,
+          "explanation": "Doubling in 5 years would require a much higher return of 14.4%."
+        }
+      ]
+    },
+    {
+      "id": "l3_s6",
+      "type": "SUMMARY",
+      "title": "Compound Growth Mastered",
+      "content": "Time is your greatest financial superpower. Start early, stay consistent, and let compounding do the heavy lifting.",
+      "mascotMood": "CELEBRATING"
+    }
+  ]
+}

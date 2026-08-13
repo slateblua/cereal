@@ -1,0 +1,93 @@
+{
+  "id": "lesson_2_budgeting_503020",
+  "unitId": "unit_1_foundations",
+  "unitTitle": "Unit 1: Financial Foundations",
+  "title": "The 50/30/20 Budgeting Rule",
+  "subtitle": "Master a simple, intuitive framework to organize every paycheck.",
+  "xpReward": 60,
+  "iconName": "pie_chart",
+  "steps": [
+    {
+      "id": "l2_s1",
+      "type": "COMPANION_MESSAGE",
+      "sender": "Pip",
+      "mascotMood": "HAPPY",
+      "content": "Budgeting does not mean depriving yourself. It simply gives every dollar a specific job before the month starts!",
+      "tip": "Track after-tax income to know your true monthly spending baseline."
+    },
+    {
+      "id": "l2_s2",
+      "type": "EXPLANATION_CARD",
+      "title": "The 50/30/20 Framework",
+      "content": "50% Needs: Rent, groceries, utilities, minimum debt payments, and healthcare.\n\n30% Wants: Dining out, subscriptions, concert tickets, and vacations.\n\n20% Savings & Debt: Emergency fund, retirement accounts, and extra debt payments.",
+      "highlight": "50% Needs, 30% Wants, 20% Future."
+    },
+    {
+      "id": "l2_s3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "In the 50/30/20 budgeting rule, what should the 50% category cover?",
+      "hint": "The largest 50% chunk is reserved for non-negotiable living essentials that you cannot live without.",
+      "options": [
+        {
+          "id": "l2_s3_opt1",
+          "text": "Essential needs like housing, groceries, utilities, and minimum debt payments",
+          "isCorrect": true,
+          "explanation": "50% covers non-negotiable living essentials that keep your life running."
+        },
+        {
+          "id": "l2_s3_opt2",
+          "text": "Discretionary spending on dining out and hobbies",
+          "isCorrect": false,
+          "explanation": "Dining out and hobbies belong to the 30% wants category."
+        },
+        {
+          "id": "l2_s3_opt3",
+          "text": "Long-term stock market investments",
+          "isCorrect": false,
+          "explanation": "Investments belong in the 20% savings category."
+        }
+      ]
+    },
+    {
+      "id": "l2_s4",
+      "type": "COMPANION_MESSAGE",
+      "sender": "Pip",
+      "mascotMood": "EXCITED",
+      "content": "The beauty of the 50/30/20 rule is that you can spend your 30% wants guilt-free because your needs and future savings are already locked in.",
+      "tip": "Automating your 20% savings on payday prevents accidental overspending."
+    },
+    {
+      "id": "l2_s5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "If your take-home pay is $4,000 per month, how much should go toward savings and extra debt payoff under 50/30/20?",
+      "hint": "Calculate 20% of the $4,000 monthly take-home pay: 0.20 × 4,000.",
+      "options": [
+        {
+          "id": "l2_s5_opt1",
+          "text": "$800 per month (20% of $4,000)",
+          "isCorrect": true,
+          "explanation": "20% of $4,000 equals $800, dedicated to emergency funds, investments, and debt elimination."
+        },
+        {
+          "id": "l2_s5_opt2",
+          "text": "$400 per month",
+          "isCorrect": false,
+          "explanation": "$400 is only 10%, which is below the recommended 20% target."
+        },
+        {
+          "id": "l2_s5_opt3",
+          "text": "$1,200 per month",
+          "isCorrect": false,
+          "explanation": "$1,200 represents 30%, which is the allocation for wants."
+        }
+      ]
+    },
+    {
+      "id": "l2_s6",
+      "type": "SUMMARY",
+      "title": "Budgeting Framework Unlocked",
+      "content": "You can now split any paycheck effortlessly: 50% for Needs, 30% for Wants, and 20% for your Financial Future.",
+      "mascotMood": "PROUD"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "lesson_5_investing_starter",
+  "unitId": "unit_3_financial_mastery",
+  "unitTitle": "Unit 3: Financial Independence",
+  "title": "Investing for Beginners",
+  "subtitle": "Demystify index funds, stocks, and the principles of long-term investing.",
+  "xpReward": 80,
+  "iconName": "show_chart",
+  "steps": [
+    {
+      "id": "l5_s1",
+      "type": "COMPANION_MESSAGE",
+      "sender": "Pip",
+      "mascotMood": "HAPPY",
+      "content": "Investing is the bridge between working for money and having your money work for you.",
+      "tip": "Over 30-year horizons, broad stock indexes have historically averaged roughly 7-10% annual returns."
+    },
+    {
+      "id": "l5_s2",
+      "type": "EXPLANATION_CARD",
+      "title": "Core Asset Classes",
+      "content": "Stocks: You own a fraction of a business. If it expands and profits, your shares grow in value.\n\nBonds: You lend money to governments or companies in return for predictable fixed interest payments.\n\nIndex Funds (ETFs): A single basket containing hundreds or thousands of stocks (like the S&P 500) all in one package.",
+      "highlight": "Index funds provide instant diversification across hundreds of companies."
+    },
+    {
+      "id": "l5_s3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the primary advantage of investing in a broad index fund (like an S&P 500 ETF)?",
+      "hint": "Index funds spread your money across hundreds of companies, providing instant diversification at low cost.",
+      "options": [
+        {
+          "id": "l5_s3_opt1",
+          "text": "Instant diversification across hundreds of companies at very low management cost",
+          "isCorrect": true,
+          "explanation": "Diversification protects you if any single individual company underperforms."
+        },
+        {
+          "id": "l5_s3_opt2",
+          "text": "Guaranteed 50% profit within thirty days",
+          "isCorrect": false,
+          "explanation": "No legitimate stock market investment guarantees immediate short-term returns."
+        },
+        {
+          "id": "l5_s3_opt3",
+          "text": "Exemption from all federal and state taxes automatically",
+          "isCorrect": false,
+          "explanation": "Taxes depend on account type (like Roth IRA or taxable brokerage), not the index fund itself."
+        }
+      ]
+    },
+    {
+      "id": "l5_s4",
+      "type": "EXPLANATION_CARD",
+      "title": "Dollar-Cost Averaging (DCA)",
+      "content": "Instead of trying to guess whether the stock market will rise or fall tomorrow, Dollar-Cost Averaging involves investing a fixed dollar amount on a consistent schedule (such as $200 on the 1st of every month).\n\nWhen prices dip, you automatically buy more shares; when prices rise, you buy fewer.",
+      "highlight": "Time in the market beats timing the market."
+    },
+    {
+      "id": "l5_s5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why is Dollar-Cost Averaging (DCA) recommended over attempting to time the market?",
+      "hint": "DCA automates regular contributions on a schedule, eliminating emotional guesswork and buying more shares when prices dip.",
+      "options": [
+        {
+          "id": "l5_s5_opt1",
+          "text": "It removes emotional guesswork and automatically buys more shares when prices are discounted",
+          "isCorrect": true,
+          "explanation": "DCA builds disciplined wealth accumulation without stress over short-term market fluctuations."
+        },
+        {
+          "id": "l5_s5_opt2",
+          "text": "It allows you to trade options with leverage",
+          "isCorrect": false,
+          "explanation": "DCA is a patient, long-term strategy, the opposite of high-risk speculative trading."
+        },
+        {
+          "id": "l5_s5_opt3",
+          "text": "It forces companies to pay double dividends",
+          "isCorrect": false,
+          "explanation": "Company dividends are determined by corporate boards, not individual investment schedules."
+        }
+      ]
+    },
+    {
+      "id": "l5_s6",
+      "type": "SUMMARY",
+      "title": "Investing Foundations Set",
+      "content": "You understand asset classes, the power of broad index funds, and why regular automated investing leads to financial independence.",
+      "mascotMood": "CELEBRATING"
+    }
+  ]
+}

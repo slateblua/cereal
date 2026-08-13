@@ -1,0 +1,92 @@
+{
+  "id": "lesson_6_emergency_fund",
+  "unitId": "unit_3_financial_mastery",
+  "unitTitle": "Unit 3: Financial Independence",
+  "title": "Building an Emergency Fortress",
+  "subtitle": "Protect your finances against unexpected shocks with a dedicated safety buffer.",
+  "xpReward": 85,
+  "iconName": "security",
+  "steps": [
+    {
+      "id": "l6_s1",
+      "type": "COMPANION_MESSAGE",
+      "sender": "Pip",
+      "mascotMood": "HAPPY",
+      "content": "Life happens: tires go flat, roofs leak, or unexpected medical bills pop up. An emergency fund is your financial shield!",
+      "tip": "Having cash reserves stops an emergency from turning into high-interest credit card debt."
+    },
+    {
+      "id": "l6_s2",
+      "type": "EXPLANATION_CARD",
+      "title": "How Much Emergency Savings Do You Need?",
+      "content": "Starter Buffer: $1,000 as fast as possible to prevent relying on credit cards for minor surprises.\n\nFull Fortress: 3 to 6 months of essential living expenses (rent, groceries, and vital bills).\n\nWhere to store it: A High-Yield Savings Account (HYSA) where it earns competitive interest with zero risk and instant liquidity.",
+      "highlight": "Emergency funds belong in a safe, liquid High-Yield Savings Account."
+    },
+    {
+      "id": "l6_s3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the recommended size for a fully funded emergency fortress?",
+      "hint": "Financial advisors recommend holding enough cash to cover 3 to 6 months of essential living expenses.",
+      "options": [
+        {
+          "id": "l6_s3_opt1",
+          "text": "3 to 6 months of essential living expenses",
+          "isCorrect": true,
+          "explanation": "3 to 6 months covers living costs in case of unexpected income loss or major medical emergencies."
+        },
+        {
+          "id": "l6_s3_opt2",
+          "text": "One week of pocket money",
+          "isCorrect": false,
+          "explanation": "One week of pocket money is far too small for genuine emergencies."
+        },
+        {
+          "id": "l6_s3_opt3",
+          "text": "10 years of luxury vacation spending",
+          "isCorrect": false,
+          "explanation": "Holding 10 years of cash is excessive and loses buying power to inflation."
+        }
+      ]
+    },
+    {
+      "id": "l6_s4",
+      "type": "EXPLANATION_CARD",
+      "title": "What Counts as a Real Emergency?",
+      "content": "An expense qualifies for emergency fund usage if it is:\n1. Unexpected (you could not plan for it in your monthly budget)\n2. Necessary (health, safety, shelter, or ability to commute to work)\n3. Urgent (must be handled immediately)",
+      "highlight": "Emergency criteria: Unexpected, Necessary, and Urgent."
+    },
+    {
+      "id": "l6_s5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which of the following situations is a valid reason to withdraw from your emergency fund?",
+      "hint": "Ask if the expense is unexpected, vital for survival or retaining your job, and urgently needed.",
+      "options": [
+        {
+          "id": "l6_s5_opt1",
+          "text": "An urgent unexpected car transmission repair needed to commute to work",
+          "isCorrect": true,
+          "explanation": "This is unexpected, urgent, and necessary for your employment."
+        },
+        {
+          "id": "l6_s5_opt2",
+          "text": "A flash sale on a brand-new television",
+          "isCorrect": false,
+          "explanation": "Discounts on electronics are wants, not emergencies."
+        },
+        {
+          "id": "l6_s5_opt3",
+          "text": "A last-minute spontaneous weekend beach trip",
+          "isCorrect": false,
+          "explanation": "Leisure travel belongs in your 30% wants budget."
+        }
+      ]
+    },
+    {
+      "id": "l6_s6",
+      "type": "SUMMARY",
+      "title": "Financial Fortress Established",
+      "content": "You now have the knowledge to budget, invest, compound wealth, and defend your financial freedom against any unexpected storm.",
+      "mascotMood": "CELEBRATING"
+    }
+  ]
+}
